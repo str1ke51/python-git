@@ -18,4 +18,4 @@ class Horse:
         if self.age > 18:
             print("I'm drinking :)")
         else:
-            raise Exception("I'm underage :(")
+            raise Exception("I'm not allowed to drink yet :(")

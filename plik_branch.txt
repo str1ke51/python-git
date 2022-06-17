@@ -2,3 +2,6 @@ to jest plik z brancha nowy-branch
 
 
 bla bla bla
+
+
+aktualizacja po połączeniu branchy

@@ -1,5 +1,6 @@
 Tutaj wiadomość od komputera B :)
 
+Kod napisany z komputera A.
 
 Dzisiaj będziemy używać Github Desktop!
 Jest to dużo prostsze niż konsola :)

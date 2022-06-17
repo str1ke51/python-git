@@ -1,7 +1,10 @@
 Tutaj wiadomość od komputera B :)
 
 Kod napisany z komputera B.
+Nie jestem pewien tej wiadomości komputera B.
 Kod napisany z komputera A.
 
 Dzisiaj będziemy używać Github Desktop!
 Jest to dużo prostsze niż konsola :)
+
+... ale tutaj chcę wiadomość komputera B!

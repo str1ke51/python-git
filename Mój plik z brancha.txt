@@ -1,0 +1,5 @@
+tutaj będzie początek kodu
+
+tu jest środek kodu
+
+w tym miejscu kończymy kod

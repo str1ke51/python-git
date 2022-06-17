@@ -1,1 +1,4 @@
 Tutaj wiadomość od komputera B :)
+
+
+Dzisiaj będziemy używać Github Desktop!
